@@ -1,0 +1,15 @@
+<layer>
+  <name>NE1_LR_LC</name>
+  <id>LayerInfoImpl-6b8b40a5:16a0205b78d:-7ff3</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-626d9b2b:16a0204817e:-7ffd</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-6b8b40a5:16a0205b78d:-7ff4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
